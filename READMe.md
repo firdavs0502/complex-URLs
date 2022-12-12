@@ -1,2 +1,2 @@
-# Logbook-Homepage
+# Logbook-Homepage.
 Logbook - Homepage
